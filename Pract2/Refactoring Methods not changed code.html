@@ -1,0 +1,43 @@
+<script>
+//Написати функцію, вхідним параметром якої є рядок. Функція повинна здійснювати «стиснення» вихідної послідовності символів: 
+//кожна підпослідовність, що складається з більш ніж 4-х входжень одного і того ж символу, 
+//замінюється на текст x(k), де x - символ, а k - рядок, що є записом числа входжень символу x у вхідну послідовність. 
+//Число входжень одного символа може бути як менше, так і більш 9.   
+
+let string = prompt("Enter:");
+
+function c(string){
+    let arr = "";
+    let counter = 1;
+    let symbol = "";
+
+    for(let i = 0; i < string.length; i++){
+        if(string[i] != string[i + 1] && counter == 1){
+            arr += string[i];
+        }
+        else if(string[i] != string[i + 1] && counter != 1){
+            if(counter > 4){
+                arr += symbol + "(" + counter + ")";
+                symbol = "";
+                counter = 1;
+            } else{
+                for(let i = 1; i <= counter; i++){
+                    arr += symbol;
+                }
+                symbol = "";
+                counter = 1;
+            }
+        } else {
+            symbol = string[i];
+            counter++;
+        }  
+    }
+    if(counter != 1) {
+        arr += symbol + "(" + counter + ")";
+        counter = 1;
+    }
+    return arr;
+}
+
+alert(c(string));
+</script>

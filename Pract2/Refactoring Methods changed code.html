@@ -1,0 +1,57 @@
+<script>
+    //Написати функцію, вхідним параметром якої є рядок. Функція повинна здійснювати «стиснення» вихідної послідовності символів: 
+    //кожна підпослідовність, що складається з більш ніж 4-х входжень одного і того ж символу, 
+    //замінюється на текст x(k), де x - символ, а k - рядок, що є записом числа входжень символу x у вхідну послідовність. 
+    //Число входжень одного символа може бути як менше, так і більш 9.   
+    
+    let string = prompt("Enter:");
+    
+    function compressString(string) {
+        let result = "";
+        let counter = 1;
+        let symbol = "";
+
+        for (let i = 0; i < string.length; i++) {
+            if (isSingleSymbol(string, i, counter)) {
+                result += string[i];
+            } else if (isEndOfDuplicates(string, i)) {
+                result += handleDuplicates(symbol, counter);
+                counter = 1;
+                symbol = "";
+            } else {
+                symbol = string[i];
+                counter++;
+            }
+        }
+
+        if (counter > 1) {
+            result += handleDuplicates(symbol, counter);
+        }
+
+        return result;
+    }
+
+    function isSingleSymbol(string, i, counter) {
+        return string[i] != string[i + 1] && counter == 1;
+    }
+
+    function isEndOfDuplicates(string, i) {
+        return string[i] != string[i + 1];
+    }
+
+    function handleDuplicates(symbol, counter) {
+        if (counter > 4) {
+            return symbol + "(" + counter + ")";
+        } else {
+            let result = "";
+
+            for (let i = 1; i <= counter; i++) {
+                result += symbol;
+            }
+            
+            return result;
+        }
+    }
+
+    alert(compressString(string));
+</script>
