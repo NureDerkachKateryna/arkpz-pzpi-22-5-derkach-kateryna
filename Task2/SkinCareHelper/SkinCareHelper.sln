@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkinCareHelper", "SkinCareHelper\SkinCareHelper.csproj", "{6515D7E5-F89D-4766-BA15-77E9B3DF3EFA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{149C8178-6CF3-4F87-92E2-84E174364EA7} = {149C8178-6CF3-4F87-92E2-84E174364EA7}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkinCareHelper.DAL", "SkinCareHelper.DAL\SkinCareHelper.DAL.csproj", "{149C8178-6CF3-4F87-92E2-84E174364EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinCareHelper.BLL", "SkinCareHelper.BLL\SkinCareHelper.BLL.csproj", "{D33F8444-7446-46A2-83B5-CC77A4D4C91A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6515D7E5-F89D-4766-BA15-77E9B3DF3EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6515D7E5-F89D-4766-BA15-77E9B3DF3EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6515D7E5-F89D-4766-BA15-77E9B3DF3EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6515D7E5-F89D-4766-BA15-77E9B3DF3EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{149C8178-6CF3-4F87-92E2-84E174364EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149C8178-6CF3-4F87-92E2-84E174364EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149C8178-6CF3-4F87-92E2-84E174364EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149C8178-6CF3-4F87-92E2-84E174364EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33F8444-7446-46A2-83B5-CC77A4D4C91A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33F8444-7446-46A2-83B5-CC77A4D4C91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33F8444-7446-46A2-83B5-CC77A4D4C91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33F8444-7446-46A2-83B5-CC77A4D4C91A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {674237AB-F763-4C8C-B5FA-45EB77610F00}
+	EndGlobalSection
+EndGlobal

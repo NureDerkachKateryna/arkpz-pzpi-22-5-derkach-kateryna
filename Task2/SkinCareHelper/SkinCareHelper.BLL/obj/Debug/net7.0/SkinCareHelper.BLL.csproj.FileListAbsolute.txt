@@ -1,0 +1,15 @@
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.BLL\bin\Debug\net7.0\SkinCareHelper.BLL.deps.json
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.BLL\bin\Debug\net7.0\SkinCareHelper.BLL.dll
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.BLL\bin\Debug\net7.0\SkinCareHelper.BLL.pdb
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.BLL\bin\Debug\net7.0\SkinCareHelper.DAL.dll
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.BLL\bin\Debug\net7.0\SkinCareHelper.DAL.pdb
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.BLL\obj\Debug\net7.0\SkinCareHelper.BLL.csproj.AssemblyReference.cache
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.BLL\obj\Debug\net7.0\SkinCareHelper.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.BLL\obj\Debug\net7.0\SkinCareHelper.BLL.AssemblyInfoInputs.cache
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.BLL\obj\Debug\net7.0\SkinCareHelper.BLL.AssemblyInfo.cs
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.BLL\obj\Debug\net7.0\SkinCareHelper.BLL.csproj.CoreCompileInputs.cache
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.BLL\obj\Debug\net7.0\SkinCareHelper.BLL.csproj.CopyComplete
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.BLL\obj\Debug\net7.0\SkinCareHelper.BLL.dll
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.BLL\obj\Debug\net7.0\refint\SkinCareHelper.BLL.dll
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.BLL\obj\Debug\net7.0\SkinCareHelper.BLL.pdb
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.BLL\obj\Debug\net7.0\ref\SkinCareHelper.BLL.dll
