@@ -1,0 +1,14 @@
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.DAL\bin\Release\net7.0\SkinCareHelper.DAL.deps.json
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.DAL\bin\Release\net7.0\SkinCareHelper.DAL.runtimeconfig.json
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.DAL\bin\Release\net7.0\SkinCareHelper.DAL.dll
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.DAL\bin\Release\net7.0\SkinCareHelper.DAL.pdb
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.DAL\obj\Release\net7.0\SkinCareHelper.DAL.csproj.AssemblyReference.cache
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.DAL\obj\Release\net7.0\SkinCareHelper.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.DAL\obj\Release\net7.0\SkinCareHelper.DAL.AssemblyInfoInputs.cache
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.DAL\obj\Release\net7.0\SkinCareHelper.DAL.AssemblyInfo.cs
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.DAL\obj\Release\net7.0\SkinCareHelper.DAL.csproj.CoreCompileInputs.cache
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.DAL\obj\Release\net7.0\SkinCareHelper.DAL.dll
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.DAL\obj\Release\net7.0\refint\SkinCareHelper.DAL.dll
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.DAL\obj\Release\net7.0\SkinCareHelper.DAL.pdb
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.DAL\obj\Release\net7.0\SkinCareHelper.DAL.genruntimeconfig.cache
+C:\Kate\Навчання\5 семестр\АТАРК\SkinCareHelper\SkinCareHelper.DAL\obj\Release\net7.0\ref\SkinCareHelper.DAL.dll
